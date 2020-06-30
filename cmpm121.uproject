@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "cmpm121",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
